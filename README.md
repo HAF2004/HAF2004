@@ -4,7 +4,7 @@
 
 <div align="center">
   <h3>👋 Hi, I'm CAFIE (HAF2004)</h3>
-  <p><strong>Computer Science Student | Full Stack Developer | Tech Enthusiast</strong></p>
+  <p><strong>Tech Enthusiast</strong></p>
 </div>
 
 ---
