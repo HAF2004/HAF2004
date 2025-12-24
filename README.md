@@ -23,10 +23,10 @@ I approach software development with focus on clean, maintainable code and scala
 
 ## Featured Projects
 
-- **Roses Community Platform** - Discord bot + website for community management
-- **farmerencrypted** - Encryption & security tool for data protection
-- **Discord Bot** - Advanced moderation and ticketing bot
-- **Parking System** - Management and scheduling system
+- **cafie-studio** - Design system and UI components library
+- **taregram** - Telegram-inspired web application
+- **sistem-absensi** - Student attendance management system
+- **vending-food-laravel** - Food ordering and vending system
 
 ## Get in Touch
 
