@@ -1,6 +1,6 @@
 # CAFIE (HAF2004)
 
-Hi, I'm CAFIE — a web developer and Informatics Engineering student based in Indonesia. I focus on building functional and scalable web applications.
+Hi, I'm CAFIE ~ a web developer and Informatics Engineering student based in Indonesia. I focus on building functional and scalable web applications.
 
 Currently expanding my skills into backend technologies such as Node.js, FastAPI, and database design. I'm open to collaborations, freelance opportunities, and learning from the developer community.
 
