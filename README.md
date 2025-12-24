@@ -30,5 +30,5 @@ I approach software development with focus on clean, maintainable code and scala
 
 ## Get in Touch
 
-- Email: [hi@cafie.dev](mailto:hi@cafie.dev) (or reach out on Discord)
+- Email: [dlalhafizd@gmail.com](mailto:dlalhafizd@gmail.com) (or reach out on Discord)
 - GitHub: [@HAF2004](https://github.com/HAF2004)
