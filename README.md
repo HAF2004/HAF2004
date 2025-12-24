@@ -1,55 +1,34 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&height=100&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Web+Developer;Cybersecurity+Enthusiast" alt="Typing SVG" />
-</div>
+# CAFIE (HAF2004)
 
-<div align="center">
-  <h3>👋 Hi, I'm CAFIE (HAF2004)</h3>
-  <p><strong>Tech Enthusiast</strong></p>
-</div>
+Hi, I'm CAFIE — a web developer and Informatics Engineering student based in Indonesia. I focus on building functional and scalable web applications.
 
----
+Currently expanding my skills into backend technologies such as Node.js, FastAPI, and database design. I'm open to collaborations, freelance opportunities, and learning from the developer community.
 
-## 📊 GitHub Statistics
+## Tech Stack & Tools
 
-<div align="center">
-  <a href="https://github.com/HAF2004">
-    <img src="https://github-readme-stats.vercel.app/api?username=HAF2004&show_icons=true&theme=dark&bg_color=0d1117&title_color=00D9FF" />
-  </a>
-</div>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
----
+## How I Work
 
-## 🛠️ Tech Stack
+I approach software development with focus on clean, maintainable code and scalable architecture. I enjoy solving complex problems and building features that provide real value.
 
-**Frontend:** React, JavaScript, HTML5, CSS3
+## Featured Projects
 
-**Backend:** PHP, Python, FastAPI, Laravel, Node.js
+- **Roses Community Platform** - Discord bot + website for community management
+- **farmerencrypted** - Encryption & security tool for data protection
+- **Discord Bot** - Advanced moderation and ticketing bot
+- **Parking System** - Management and scheduling system
 
-**Database:** MySQL, MongoDB, SQLite
+## Get in Touch
 
-**Tools:** GitHub, VSCode, Docker, Git, Vercel, Discord
-
----
-
-## 💼 Featured Projects
-
-- 🔐 **farmerencrypted** - Encryption & Security Tool
-- 🤖 **Discord Bot** - Advanced Bot Development
-- 🅿️ **Parking System** - Management System
-- 🎣 **Mancing** - Interactive Game
-
----
-
-## 🌟 Currently
-
-- Working on advanced system architecture projects
-- Learning Penetration Testing & Cybersecurity
-- Interested in Web Development & System Design
-- Love Photography & Gaming (Roblox)
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2800&pause=2000&color=00D9FF&center=true&width=500&lines=Thanks+for+visiting!;Keep+coding+and+learning!" />
-  <p>Made with ❤️ by CAFIE (HAF2004)</p>
-</div>
+- Email: [hi@cafie.dev](mailto:hi@cafie.dev) (or reach out on Discord)
+- GitHub: [@HAF2004](https://github.com/HAF2004)
